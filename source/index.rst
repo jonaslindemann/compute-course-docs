@@ -10,8 +10,8 @@ Welcome to Scientific Programming in Python and Fortran's documentation!
    :maxdepth: 1
    :caption: Contents:
 
-   python_software
-   python_assignments
+   python
+   python_exercises
 
 Indices and tables
 ==================
