@@ -25,7 +25,24 @@ Create the following two-dimensional arrays in NumPy:
 
 a) Integer array with the following appearance:
 
-b) flyttals-array med följande utseende:
+.. math::
+
+    \begin{bmatrix}
+    1 \\ 
+    2 \\
+    3 \\
+    4 \\
+    \end{bmatrix}
+
+b) floating point arry with the following appearance:
+
+.. math::
+
+    \begin{bmatrix}
+    1 & 2 & 3 \\
+    4 & 5 & 6 \\
+    7 & 8 & 9 \\
+    \end{bmatrix}
 
 P.29
 ----

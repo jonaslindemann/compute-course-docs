@@ -58,6 +58,7 @@ html_theme_options = {
 
     # Set the name of the project to appear in the navigation.
     'nav_title': 'Scientific Programming in Python and Fortran',
+    'logo_icon': '&#xe88a',
 
     # Specify a base_url used to generate sitemap.xml. If not
     # specified, then no sitemap will be built.
@@ -68,8 +69,8 @@ html_theme_options = {
     'color_accent': 'light-blue',
 
     # Set the repo location to get a badge with stats
-    #'repo_url': 'https://github.com/jonaslindemann/modern_fortran_book',
-    #'repo_name': 'Modern Fortran in Science and Technology',
+    'repo_url': 'https://github.com/jonaslindemann/compute-course-docs',
+    'repo_name': 'Scientific Programming in Python and Fortran',
 
     # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 2,

@@ -3,8 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Scientific Programming in Python and Fortran's documentation!
-========================================================================
+Scientific Programming in Python and Fortran - Course material 
+==============================================================
+
+This course is intended for students with basic knowledge of programming in any language who would like to learn the techniques of scientific programming. The course covers scientific programming in Python, including writing numerical codes with NumPy, data handling, visualisation with Matplotlib and ParaViews, writing user interfaces with Qt, and creating Python environments for scientific applications. It also covers using the compiled language Fortran, stand-alone or via mixed-language programming with Python.
+
+For students without basic programming knowledge in C, C++ or Fortran this course will equip you with the required prerequisites for the course Parallel programming of HPC systems.
+
+This web pages contains information on how to setup the required software environment, run Python and Fortran code as well as the assignments for the course.
 
 .. toctree::
    :maxdepth: 1
@@ -12,6 +18,9 @@ Welcome to Scientific Programming in Python and Fortran's documentation!
 
    python
    python_exercises
+   fortran
+   fortran_exercises
+
 
 Indices and tables
 ==================

@@ -46,6 +46,12 @@ Some useful filters are:
 
 A final visualisation is shown below:
 
+.. figure:: images/paraview_assignment_1.png
+   :width: 100 %
+   :alt: Example paraview visualisation
+   :name: paraview-assignment-1
+
+
 P.48
 ----
 
@@ -84,3 +90,8 @@ Some useful filters are:
 **Clip** - Clips the data volume using a plane. Can be used to see inside.
 
 The final result can look like the following image:
+
+.. figure:: images/paraview_assignment_2.png
+   :width: 100 %
+   :alt: Example paraview visualisation
+   :name: paraview-assignment-2

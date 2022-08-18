@@ -193,6 +193,10 @@ P.21*
 
 Functions can be given as an argument just like any other datatype in Python. Implement a function to differentiate numerically according to the formula:
 
+.. math::
+
+    f'(x)\approx \frac{f(x+h) - f(x)}{h}
+
 The function should take a function as input and the parameters x and h. Write a main application that calls the function with f(x)=sin(x) and calculates f’(x) when x=2.0.
 
 P.22*
