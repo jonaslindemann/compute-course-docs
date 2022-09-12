@@ -11,3 +11,7 @@ Notebooks for the lectures:
 `Introduction to Numpy <https://colab.research.google.com/drive/1MNGbYDxLn_djt2gjn0BqYUT2llWmytWh?usp=sharing>`_
 
 `Introduction to Matplotlib <https://colab.research.google.com/drive/1PK8d-hfU5ameSTW2RzyttD0ww4wXFAI-?usp=sharing>`_
+
+`Visualisation with PyVTK <https://colab.research.google.com/drive/17USVTWfRlaRYtJq3wRI5q0Bry0xTDH_2?usp=sharing>`
+
+
