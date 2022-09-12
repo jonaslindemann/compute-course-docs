@@ -18,7 +18,9 @@ This web pages contains information on how to setup the required software enviro
 
    python_lectures
    python_course_material
+   
    python
+   python_source
    python_exercises
    fortran_lectures
    fortran
