@@ -3,7 +3,9 @@ Fortran exercises
 *****************
 
 Assignments can be found in the Fortran book at the following link:
+
 https://modern-fortran-in-science-and-technology.readthedocs.io/en/latest/app_exercises.html
+
 Please provide working programs when possible for the assignments. Hand-ins indicated in bold and with a star (*).
 
 Variables and data types
