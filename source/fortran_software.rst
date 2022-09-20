@@ -12,7 +12,7 @@ Installing Qt Creator with Fortran compiler
 Installing Qt Creator extensions for Fortran
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* https://github.com/jonaslindemann/qtcreator-fortran^
+* https://github.com/jonaslindemann/qtcreator-fortran
 
 macOS
 -----
