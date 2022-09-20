@@ -14,4 +14,10 @@ Notebooks for the lectures:
 
 `Visualisation with PyVTK <https://colab.research.google.com/drive/17USVTWfRlaRYtJq3wRI5q0Bry0xTDH_2?usp=sharing>`_
 
+Python source code for the lectures:
+
+`Course github repo <https://github.com/jonaslindemann/compute-course-public>`_
+
+`Course source in zip-file <https://github.com/jonaslindemann/compute-course-public/archive/refs/heads/master.zip>`_
+
 
