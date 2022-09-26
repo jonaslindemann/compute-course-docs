@@ -22,7 +22,10 @@ This web pages contains information on how to setup the required software enviro
    python
    python_source
    python_exercises
+
    fortran_lectures
+   fortran_course_material
+
    fortran
    fortran_exercises
 
