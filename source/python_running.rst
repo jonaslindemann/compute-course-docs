@@ -150,4 +150,3 @@ Click **Select** to continue. This opens up a lower pane with the started interp
    :width: 80 %
    :alt: A juputer lab instance.
    :name: jupyter-running-5
-
