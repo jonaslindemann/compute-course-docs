@@ -2,6 +2,8 @@
 Python lectures
 ***************
 
+`YouTube playlist for 2023 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOiNVW08NJmcUYedk4OEIF0u>`_
+
 `YouTube playlist for 2022 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOjT7KExlcPEULqMOwdqCRZt>`_
 
 Notebooks for the lectures:
