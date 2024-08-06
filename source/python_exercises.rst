@@ -1,6 +1,6 @@
-****************
-Python exercises
-****************
+******************
+Python - Exercises
+******************
 
 .. include:: python_general_exercises.rst
 .. include:: python_numpy_exercises.rst

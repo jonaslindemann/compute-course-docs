@@ -1,6 +1,6 @@
-******
-Python
-******
+*******************************
+Python - Installation and setup
+*******************************
 
 .. include:: python_software.rst
 .. include:: python_running.rst

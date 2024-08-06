@@ -6,7 +6,13 @@
 Scientific Programming in Python and Fortran - Course material 
 ==============================================================
 
+
+
 This course is intended for students with basic knowledge of programming in any language who would like to learn the techniques of scientific programming. The course covers scientific programming in Python, including writing numerical codes with NumPy, data handling, visualisation with Matplotlib and ParaViews, writing user interfaces with Qt, and creating Python environments for scientific applications. It also covers using the compiled language Fortran, stand-alone or via mixed-language programming with Python.
+
+.. figure:: images/course_logo.png
+   :width: 50%
+   :align: center
 
 For students without basic programming knowledge in C, C++ or Fortran this course will equip you with the required prerequisites for the course Parallel programming of HPC systems.
 

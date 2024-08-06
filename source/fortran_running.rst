@@ -1,5 +1,5 @@
-Running Fortran code
-====================
+Fortran - Running
+=================
 
 All aspects of using Fortran is covered in the book Modern Fortran in Science and Technology:
 
