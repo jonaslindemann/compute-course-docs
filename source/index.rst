@@ -35,6 +35,9 @@ This web pages contains information on how to setup the required software enviro
    fortran
    fortran_exercises
 
+   project_assignment
+   project_particle_in_a_box
+
 
 Indices and tables
 ==================
