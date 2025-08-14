@@ -1,5 +1,5 @@
-Project - Simulation of particles in a box
-==========================================
+Simulation of particles in a box
+================================
 
 This exercise is adapted from the Uppsala course "Programmeringsteknik MN2 vt01".
 

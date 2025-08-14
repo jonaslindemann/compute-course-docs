@@ -1,6 +1,6 @@
-************************
-Python - Course material
-************************
+***************
+Course material
+***************
 
 * `How To Think Like a Computer Scientist <https://runestone.academy/ns/books/published/thinkcspy/index.html>`_
 * `Tutorial from python.org <https://docs.python.org/3/tutorial/>`_

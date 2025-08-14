@@ -1,5 +1,5 @@
-Project - Open submission
-=========================
+Open submission
+===============
 
 In this assignment you submit a project that is related to your own research area. The project should combine 2 or more of the topics covered in this course.
 

@@ -1,6 +1,6 @@
-*********************************
-Python - Source code and examples
-*********************************
+************************
+Source code and examples
+************************
 
 Source code for many of the lecture examples can be downloaded from the following location:
 

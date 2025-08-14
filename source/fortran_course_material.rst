@@ -1,6 +1,6 @@
-*************************
-Fortran - Course material
-*************************
+***************
+Course material
+***************
 
 * `Modern Fortran in Science and Technology <https://modern-fortran-in-science-and-technology.readthedocs.io/en/latest/>`_
 * `Fortran High-performance parallel programming language <https://fortran-lang.org/en/>`_

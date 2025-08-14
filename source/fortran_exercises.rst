@@ -1,6 +1,6 @@
-*******************
-Fortran - Exercises
-*******************
+*********
+Exercises
+*********
 
 Assignments can be found in the Fortran book at the following link:
 
