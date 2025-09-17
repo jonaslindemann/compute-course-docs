@@ -1,6 +1,6 @@
-**********************
-Installation and setup
-**********************
+******************
+Course environment
+******************
 
 .. include:: python_software.rst
 .. include:: python_running.rst
