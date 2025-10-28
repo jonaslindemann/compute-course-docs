@@ -393,5 +393,15 @@ When this has been done, everytime you open a Python file in Visual Studio Code,
 .. image:: images/vc-install-16.png
    :alt: Visual Studio Code
 
+Software environment for this course
+------------------------------------
+
+The required software for this course can be installed using conda-forge with the following command:
+
+.. code-block:: bash
+
+   conda create -n compute-env-v4 python=3.13 numpy scipy matplotlib qtpy pyside6 meson ninja m2w64-gcc-fortran libpython jupyter
+
+
 
 
