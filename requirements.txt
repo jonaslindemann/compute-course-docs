@@ -1,3 +1,2 @@
-sphinx >= 3.2.1
-docutils == 0.16
-sphinx-material
+sphinx >= 7.0
+shibuya
