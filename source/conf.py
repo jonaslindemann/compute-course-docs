@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Scientific Programming in Python and Fortran'
-copyright = '2022-2024, Jonas Lindemann'
+copyright = '2022-2026, Jonas Lindemann'
 author = 'Jonas Lindemann'
 
 # The full version, including alpha/beta/rc tags
-release = '0.3'
+release = '0.4'
 
 
 # -- General configuration ---------------------------------------------------
