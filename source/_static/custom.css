@@ -1,0 +1,18 @@
+/* Custom styling on top of the Shibuya theme. */
+
+/*
+ * Light green top bar.
+ *
+ * --sy-c-background-dropback is used by Shibuya only for .sy-head-blur, the
+ * translucent layer behind the header, so overriding it recolours the top bar
+ * and nothing else. The alpha channel keeps the backdrop blur visible when
+ * page content scrolls underneath.
+ */
+:root,
+html.light {
+    --sy-c-background-dropback: #dcefdcee;
+}
+
+html.dark {
+    --sy-c-background-dropback: #1b2a1dcc;
+}

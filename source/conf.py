@@ -47,41 +47,44 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_material'
+html_theme = 'shibuya'
 
+html_title = 'Scientific Programming in Python and Fortran'
 html_show_sourcelink = True
-html_sidebars = {
-    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
-}
+html_baseurl = 'https://compute-course-docs.readthedocs.io/'
 
 html_theme_options = {
+    # Accent colour used for links, active navigation entries and highlights
+    'accent_color': 'blue',
 
-    # Set the name of the project to appear in the navigation.
-    'nav_title': 'Scientific Programming in Python and Fortran',
-    'logo_icon': '&#xe88a',
+    # Show a GitHub link in the header
+    'github_url': 'https://github.com/jonaslindemann/compute-course-docs',
 
-    # Specify a base_url used to generate sitemap.xml. If not
-    # specified, then no sitemap will be built.
-    'base_url': 'https://project.github.io/project',
+    # Extra links in the top navigation bar
+    'nav_links': [
+        {'title': 'Python', 'url': 'python_lectures'},
+        {'title': 'Fortran', 'url': 'fortran_lectures'},
+        {'title': 'Project', 'url': 'project_assignment'},
+    ],
 
-    # Set the color and the accent color
-    'color_primary': 'blue',
-    'color_accent': 'light-blue',
+    # Sidebar navigation behaviour
+    'globaltoc_expand_depth': 1,
+    'toctree_collapse': True,
+}
 
-    # Set the repo location to get a badge with stats
-    'repo_url': 'https://github.com/jonaslindemann/compute-course-docs',
-    'repo_name': 'Scientific Programming in Python and Fortran',
-
-    # Visible levels of the global TOC; -1 means unlimited
-    'globaltoc_depth': 2,
-    # If False, expand all TOC entries
-    'globaltoc_collapse': True,
-    # If True, show hidden TOC entries
-    'globaltoc_includehidden': False,
-    'master_doc': False
+# Used by the theme to build "Edit this page" links
+html_context = {
+    'source_type': 'github',
+    'source_user': 'jonaslindemann',
+    'source_repo': 'compute-course-docs',
+    'source_version': 'main',
+    'source_docs_path': '/source/',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Custom stylesheet, loaded after the theme's own CSS
+html_css_files = ['custom.css']
