@@ -5,6 +5,9 @@ Lectures
 YouTube
 =======
 
+https://www.youtube.com/playlist?list=PLFI67d4jKGoQ
+
+* `YouTube playlist for 2026 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOiNVW08NJmcUYedk4OEIF0u>`_
 * `YouTube playlist for 2025 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOh7wH9tpTV8UBMR1uKAov0x>`_
 * `YouTube playlist for 2023 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOiNVW08NJmcUYedk4OEIF0u>`_
 * `YouTube playlist for 2022 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOjT7KExlcPEULqMOwdqCRZt>`_
