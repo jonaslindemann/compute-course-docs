@@ -2,5 +2,5 @@
 Lectures
 ********
 
-`Lecture slides <https://lunarc.slides.com/jonaslindemann/modern-fortran>`_
+:download:`Lecture slides <pdf/introduction_to_modern_fortran.pdf>`
 
