@@ -21,6 +21,7 @@ Lecture notebooks
 * `Object-oriented programming <https://colab.research.google.com/github/jonaslindemann/compute-course-public/blob/master/general/2026/Object_oriented_programming_in_Python.ipynb>`_ 
 * `Introduction to Matplotlib <https://colab.research.google.com/github/jonaslindemann/compute-course-public/blob/master/general/2026/Introduction_to_Matplotlib.ipynb>`_
 * `Visualisation with ParaView and PyVTK <https://github.com/jonaslindemann/compute-course-public/blob/master/general/2026/Visualisation_with_PyVTK.ipynb>`_
+* `Mixed-language programming <https://colab.research.google.com/github/jonaslindemann/compute-course-public/blob/master/f2py/fortran_f2py.ipynb>`_
 
 Lecture source code
 =================== 
