@@ -139,7 +139,8 @@ simulation. This is a useful check of your implementation.
 The skeleton
 ------------
 
-Download the skeleton code from the course page. It contains::
+Download the skeleton code: :download:`particle_skeleton.tar.gz <source/particle_skeleton.tar.gz>`.
+It contains::
 
     particles_project/
         CMakeLists.txt               Build of the whole project
