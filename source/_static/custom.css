@@ -16,3 +16,21 @@ html.light {
 html.dark {
     --sy-c-background-dropback: #1b2a1dcc;
 }
+
+/*
+ * Render :download: links like ordinary links.
+ *
+ * Sphinx wraps the link text of the :download: role in a <code> element, so
+ * the theme would otherwise show it as inline code. The theme also sets a
+ * monospace font directly on the inner span.pre elements.
+ */
+a.reference.download code.download,
+a.reference.download code.download span.pre {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+}

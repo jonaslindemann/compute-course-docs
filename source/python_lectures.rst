@@ -5,8 +5,6 @@ Lectures
 YouTube
 =======
 
-
-
 * `YouTube playlist for 2026 round <https://www.youtube.com/playlist?list=PLFI67d4jKGoQ>`_
 * `YouTube playlist for 2025 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOh7wH9tpTV8UBMR1uKAov0x>`_
 * `YouTube playlist for 2023 round <https://www.youtube.com/playlist?list=PLgLiRoLGqjOiNVW08NJmcUYedk4OEIF0u>`_
@@ -22,6 +20,12 @@ Lecture notebooks
 * `Introduction to Matplotlib <https://colab.research.google.com/github/jonaslindemann/compute-course-public/blob/master/general/2026/Introduction_to_Matplotlib.ipynb>`_
 * `Visualisation with ParaView and PyVTK <https://github.com/jonaslindemann/compute-course-public/blob/master/general/2026/Visualisation_with_PyVTK.ipynb>`_
 * `Mixed-language programming <https://colab.research.google.com/github/jonaslindemann/compute-course-public/blob/master/f2py/fortran_f2py.ipynb>`_
+
+Lecture slides
+==============
+
+* :download:`Introduction to Modern Fortran <pdf/introduction_to_modern_fortran.pdf>`
+* :download:`User interfaces with PyQt <pdf/user_interfaces_with_pyqt_updated_v3.pdf>`
 
 Lecture source code
 =================== 
